@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.a24hours;
 
 import org.junit.Test;
 
